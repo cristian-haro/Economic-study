@@ -6,6 +6,6 @@
 Tool to control personal income and expenses, facilitating the view of the evolution month by month, creating a history of expenses, etc.
 
 ![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
-[![View the report]()
+[![View the report](#)
 
 > Fictitious data have been used in the project
